@@ -35,3 +35,4 @@
 - **Make sure you have a version of python installed that supports http.server**
 - **Make sure you have git instslled**
 - **Make sure your in the right directory**
+- **If apps, games, methods, etc doesnt work Dm lazzy_beanz on the discord.**
