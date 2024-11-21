@@ -12,7 +12,7 @@ let draweropen = false
 const textOptions = [
     "If somethings not working check your chrome version!",
     "Fun fact! This site has been taken down 3 Time(s)",
-    "Only tested on Chrome v114 & v120",
+    "Only tested on Chrome v114 & v130",
     "Join the discord server for new site URLs!",
     "Submit game suggestions in the discord server!",
     "Go to chrome://version to check your version!",
@@ -25,6 +25,10 @@ const textOptions = [
     "Made by a student for students :)",
     "Securly ver 2.97.55 :(",
     "Now with 61% more games! (v2.18)"
+    "Changed by a different mod"
+    "This isnt the main url for unuib"
+    "Adding more games soon!!"
+    "Fun fact! Now with 100% less lemons"
 ];
 
 top.document.getElementById("randomtext").innerHTML = textOptions[Math.round(Math.random()*textOptions.length)]
